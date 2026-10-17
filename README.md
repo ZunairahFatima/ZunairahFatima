@@ -1,6 +1,6 @@
 ## Hi there 👋
 <!-- 🌊 WAVE TOP -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Zunairah%Fatima&fontSize=40&fontAlignY=35&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Zunairah%20Fatima&fontSize=40&fontAlignY=35&animation=fadeIn" />
 <!-- 👋 INTRO -->
 <h1 align="center">Hi 👋, I'm Zunairah Fatima</h1>
 <!-- ✨ TYPING ANIMATION -->
