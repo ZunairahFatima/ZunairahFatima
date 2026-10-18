@@ -53,7 +53,7 @@ public:
 | [❌⭕ Tic Tac Toe](https://github.com/ZunairahFatima/Tic-Tac-Toe.git) | Interactive desktop game built using C++ SFML with a clean GUI and game logic implementation |
 | [🩸 Iron-Quest](https://github.com/UniversityCEP/Iron-Quest.git) | C# Windows Forms health app to track daily iron consumption — includes login, meal management, progress tracking, and dashboard |
 | [🎮🏃‍♀️‍➡️ Maze Runner](https://github.com/UniversityCEP/maze-runner.git) | A randomly generated maze game built using C++ and SFML, featuring Depth-First Search (DFS) and a stack-based algorithm for maze generation. Navigate through the maze using arrow keys, avoid blocked paths, and find the exit to win! |
-| [🎮🏃‍♀️‍➡️ Recipe Finder](https://github.com/UniversityCEP/maze-runner.git) | Desktop Recipe Finder application built with Python, CustomTkinter, and  Spoonacular API - allows users to browse and search for recipes
+| [🍜 Recipe Finder](https://github.com/UniversityCEP/maze-runner.git) | Desktop Recipe Finder application built with Python, CustomTkinter, and  Spoonacular API - allows users to browse and search for recipes
 
 ---
 
